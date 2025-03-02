@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Leanne Graham",
+        "username": "Bret",
+        "email": "Sincere@april.biz"
+      },
+      {
+        "id": 2,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Shanna@melissa.tv"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "Ürün 1",
+        "body": "Ürün açıklaması...",
+        "userId": 1
+      },
+      {
+        "id": 2,
+        "title": "Ürün 2",
+        "body": "Ürün açıklaması...",
+        "userId": 2
+      }
+    ]
+  }
